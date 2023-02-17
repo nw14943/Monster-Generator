@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\School\\2023 Winter\\CSE 310 Applied Programming\\C#-exploration\\VSCode\\VSCode.csproj",
+      "projectUniqueName": "F:\\School\\2023 Winter\\CSE 310 Applied Programming\\C#-exploration\\VSCode\\Monster-Generator\\VSCode.csproj",
       "projectName": "VSCode",
-      "projectPath": "F:\\School\\2023 Winter\\CSE 310 Applied Programming\\C#-exploration\\VSCode\\VSCode.csproj",
+      "projectPath": "F:\\School\\2023 Winter\\CSE 310 Applied Programming\\C#-exploration\\VSCode\\Monster-Generator\\VSCode.csproj",
       "packagesPath": "C:\\Users\\Nathan\\.nuget\\packages\\",
-      "outputPath": "F:\\School\\2023 Winter\\CSE 310 Applied Programming\\C#-exploration\\VSCode\\obj\\",
+      "outputPath": "F:\\School\\2023 Winter\\CSE 310 Applied Programming\\C#-exploration\\VSCode\\Monster-Generator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

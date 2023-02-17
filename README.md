@@ -4,9 +4,10 @@ I have wanted to create some DnD tools for DMs. This is one section of
 that project. I also wanted to get to know C# so that is the reason that
 this section is written in C#.
 
-A link to your YouTube demonstration. It is a 4-5 minute demo of the software running and a walkthrough of the code. (eventually)
+A link to your YouTube demonstration. It is a 6-7 minute demo of the
+software running and a walkthrough of the code.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/CCItDrQWe2Q)
 
 # Development Environment
 

@@ -6,16 +6,19 @@ Monster m1 = new Monster();
 m1.display();
 m1.display(false);
 Console.WriteLine(m1);
+Console.WriteLine();
 
 Monster m2 = new Monster("Monster");
 m2.display();
 m2.display(false);
 Console.WriteLine(m2);
+Console.WriteLine();
 
 Monster m3 = new Monster("Adult Red Dragon");
 m3.display();
 m3.display(false);
 Console.WriteLine(m2);
+Console.WriteLine();
 
 Console.WriteLine("Program End");
 
